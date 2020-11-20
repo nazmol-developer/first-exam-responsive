@@ -1,0 +1,632 @@
+/*responsive code*/
+
+
+@media only screen and (min-width:1200px){
+	 header .button img{display:none;}
+	nav ul li a {margin: 0 11px;}
+
+	.secu-11 {width: 32%;}
+
+    .infor-img p {margin-top: 8px;
+    font-size: 14px;}
+
+    .infor-3img {
+    margin-left: -8px;}
+
+    .fmenu nav {
+    margin-right: 115px;}
+
+    .banner-1 {margin-top: 118px;}
+
+     .banner-1 h1 {
+    font-size: 32px;}
+
+
+    .fmenu {
+    width: 61%;}
+
+    .ficon {
+    width: 32%;}
+
+    .jjj {
+    margin-left: 73px;
+    margin-top: 5px;}
+
+    .ficon img {
+    width: 88px;
+    height: 62px;}
+	
+}
+
+@media only screen and (max-width:1199.98px) and (min-width:992px){
+	 header .button img{display:none;}
+
+	 .logo img {width: 50%;}
+
+	nav ul li a {
+    margin: 0 11px;}
+
+	.secu-11 {width: 32%;}
+
+    .infor-img p {
+    
+    margin-top: 8px;
+    font-size: 14px;}
+
+    .infor-3img {
+    margin-left: -8px;}
+
+    .fmenu nav {
+    margin-right: 115px;}
+
+
+    .banner-1 {margin-top: 118px;}
+
+     .banner-1 h1 {
+    font-size: 32px;}
+
+
+    .fmenu {width: 61%;}
+
+    .ficon {width: 32%;}
+
+    .jjj {
+    margin-left: 73px;
+    margin-top: 5px;}
+
+    .ficon img {
+    width: 88px;
+    height: 62px;}
+
+}
+
+@media only screen and (max-width:991.98px) and (min-width:768px){
+	 header .button img{display:none;}
+
+	.logo img {
+    width: 56%;}
+
+    nav ul li {
+    font-size: 14px;}
+
+    nav ul li a {
+    margin: 0 7px;}
+
+
+    .banner {height: 400px;}
+
+    .banner-1 {
+    margin-top: 100px;}
+
+    .banner-1 h2 { font-size: 27px;
+
+    margin-bottom: 5px;}
+
+    .banner-1 h1 {
+    font-size: 25px;}
+
+    .banner-1 p {    font-size: 12px;
+        margin: 15px 0;}
+
+    .banner-1 button { font-size: 12px;
+ 		padding: 8px 24px;}
+
+
+ 	.secu {width: 30%;}
+
+
+    .secu-3 h4 {color: blue;
+    font-size: 18px;}
+
+
+    .secu-4 p {
+    font-size: small;}
+
+
+    .secu-11 {margin-left: 14px;}
+
+    .secu-111 {margin-left: 13px;}
+
+    .infor-1 h1 {
+    color: white;
+    font-size: 16px;}
+
+
+
+    .infor-img h1 {
+    color: white;
+    font-size: 16px;}
+
+    .infor-1 h2 {
+    color: white;
+    font-size: 14px;}
+
+    .infor-1 p {
+    font-size: 12px;}
+
+    .infor-img p {
+    margin-top: 36px;
+    font-size: 12px;}
+
+    .infor-2 {margin-left: -10px;}
+
+
+
+    .infor-3 {margin-right:23px;}
+
+
+    .infor-3img {
+    margin-left: 10px;}
+
+    .infor-3img img {
+    width: 71px;
+    height: 139px;}
+
+
+    .infor-4text h1 {
+    font-size: 16px;}
+
+
+    .infor-4img img {
+    width: 107px;
+    height: 35px;}
+
+    .infor-4 {
+    float: left;
+    margin-left: 3px;}
+
+    .infor-add {font-size: 8px;}
+
+    .infor-add h3 {
+    font-size: 10px;}
+
+
+
+    .fmenu nav ul li {font-size: 9px;}
+
+    .fmenu nav ul li a {
+    margin: 0 6px;}
+
+    .fmenu h1 {font-size: 8px;}
+
+    .ficon { margin-left: -3px;}
+
+    .ficon img {
+    width: 83px;
+    height: 65px;}
+
+    .jjj {
+    margin-left: -4px;
+    margin-top: 5px;
+    float: right;}
+
+}
+
+
+@media only screen and (max-width:767.98px) and (min-width:576px){
+	 header .button img{display:none;}
+
+	 .logo img {
+    width: 60%;
+    height: 56px;}
+
+    nav ul li a {
+    margin: 0 6px;
+    font-size: 11px;}
+
+    .banner { height: 400px;}
+
+    .banner-1 { margin-top: 90px;}
+
+    .banner-1 h2 { font-size: 20px;
+    margin-bottom: 4px;}
+
+    .banner-1 h1 {
+    font-size: 19px;}
+
+    .banner-1 p {
+    margin: 12px 0;
+    font-size: small;}
+
+    .banner-1 button {padding: 8px 18px;
+    font-size: 11px;}
+
+
+	.security {
+    height: 264px;}
+
+	.secu-2 img {
+    width: 35px;
+    height: 34px;}
+
+    .secu-3 h3 {
+    font-size: 15px;}
+
+    .secu-3 h4{font-size: 14px;}
+
+    .secu-4 {
+    margin-top: 20px;}
+
+    .secu-4 p{font-size:small;}
+
+    .secu-11{    margin-left: 9px;}
+
+    .secu-111 {
+    width: 30%;
+    margin-left: 8px;}
+
+
+    .infor {
+    width: 100%;
+    height: 223px;}
+
+    .infor-1 {width: 30%;}
+
+    .infor-1 h1 {
+    font-size: 15px;}
+
+    .infor-1 h2 {
+    font-size: 9px;}
+
+    .infor-1 p {
+    margin-top: 9px;
+    font-size: small;}
+
+    .infor-img {
+    width: 78%;
+    height: 113px;}
+
+
+    .infor-img h1 {
+    font-size: 11px;}
+
+    .infor-img p {
+    margin-top: 19px;
+    font-size: 11px;}
+
+    .infor-2 {
+    width: 34%;
+    margin-top: 20px;
+    margin-left: 5px;}
+
+
+    .infor-add {
+    font-size: 7px;}
+
+    .infor-add h3 {
+    font-size: 11px;}
+
+    .infor-3img {
+    margin-left: 4px;}
+
+    
+    .infor-3img img {
+    width: 50px;
+    height: 120px;}
+
+
+    .infor-4text {
+    font-size: 9px;}
+
+    .infor-4img img {
+    width: 69px;
+    height: 25px;}
+
+    .infor-4 {
+    float: left;
+    margin-left: 9px;}
+
+
+     .fmenu nav {}
+
+
+    .fmenu nav ul li {}
+
+    .fmenu nav ul li a {
+    margin: 0 6px;
+	font-size: 8px;}
+
+
+	.fmenu h1{ font-size: 8px;}
+
+
+    .jjj {
+    margin-left: 56px;
+    margin-top: -2px;}
+
+
+
+    .ficon {
+    width: 38%;
+    display: inline-block;
+    float: left;
+    margin-left: 9px;
+    margin-top: 10px;}
+
+    .ficon img {
+    width: 60px;
+    height: 43px;
+    float: left;}
+	 
+}
+
+
+
+@media only screen and (max-width:1199.98px) and (min-width:576px){
+	
+    header .button img{display:none;}
+}
+
+
+
+
+@media only screen and (max-width:575.98px){
+
+	.logo img {width: 75%;
+		height:57px;
+		margin-top:10px;}
+
+	header nav{display:none;}
+
+	header .button{width:6%;
+		float:right;
+	    margin-top: 20px;}
+
+	header .button img{border-radius:5px;
+		width:22px;}
+
+
+	.banner{height:345px;}
+
+	.banner-1{ margin-top: 63px;}
+
+	.banner-1 h2{font-size: 15px;
+    margin-bottom: 2px;}
+
+	.banner-1 h1{font-size: 16px;}
+
+	.banner-1 p{font-size: small;}
+
+
+	.banner-1 button{padding: 5px 12px;
+    font-size: 11px;}
+
+	.banner-1 button a{}
+
+
+	.security {height: 264px;}
+
+	.secu-2 img {
+    width: 35px;
+    height: 34px;}
+
+    .secu-3 h3 {
+    font-size: 15px;}
+
+    .secu-3 h4{font-size: 14px;}
+
+    .secu-4 {
+    margin-top: 20px;}
+
+    .secu-4 p{font-size:small;}
+
+    .secu-11{    margin-left: 9px;}
+
+    .secu-111 {
+    width: 30%;
+    margin-left: 8px;}
+
+
+    .infor {
+    width: 100%;
+    height: 223px;}
+
+    .infor-1 {
+    width: 30%;}
+
+    .infor-1 h1 {
+    font-size: 15px;}
+
+    .infor-1 h2 {
+    font-size: 9px;}
+
+    .infor-1 p {
+    margin-top: 9px;
+    font-size: small;}
+
+    .infor-img {
+    width: 78%;
+    height: 113px;}
+
+
+    .infor-img h1 {
+    font-size: 11px;}
+
+    .infor-img p {
+    margin-top: 19px;
+    font-size: 11px;}
+
+    .infor-2 {
+    width: 34%;
+    margin-top: 20px;
+    margin-left: 5px;}
+
+
+    .infor-add {
+    font-size: 7px;}
+
+    .infor-add h3 {
+    font-size: 11px;}
+
+    .infor-3img {
+    margin-left: 4px;}
+
+    
+    .infor-3img img {
+    width: 50px;
+    height: 120px;}
+
+
+    .infor-4text {
+    font-size: 9px;}
+
+    .infor-4img img {
+    width: 69px;
+    height: 25px;}
+
+    .infor-4 {
+    float: left;
+    margin-left: 9px;}
+
+    .fmenu nav {    margin-right: 68px;
+    margin-right: 74px;}
+
+
+    .fmenu nav ul li {
+    font-size: 6px;}
+
+
+    .jjj {
+    margin-left: 56px;
+    margin-top: -2px;}
+
+    .ficon {
+    width: 38%;
+    display: inline-block;
+    float: left;
+    margin-left: 9px;
+    margin-top: 10px;}
+
+    .ficon img {
+    width: 60px;
+    height: 43px;
+    float: left;}
+
+}
+
+
+
+
+@media only screen and (max-width:575.98px) and (min-width:350px){
+
+
+header nav{display:none;}
+
+    header .button{width:6%;
+        float:right;
+        margin-top: 20px;}
+
+    header .button img{border-radius:5px;
+        width:22px;}
+
+    .logo img{height:45px;}
+
+
+    .banner-1 p {
+    font-size: 10px;
+    margin: 11px 0;}
+
+    .banner-1 h1 {
+    font-size: 14px;}
+
+    .security {
+    height: 217px;}
+
+
+    .secu {
+    height: 199px;}
+
+    .secu-11 {height: 199px;
+    margin-left: 4px;}
+
+    .secu-2 {margin-right: -17px;}
+
+    .secu-3 h4 {
+    font-size: 10px;}
+
+    .secu-4 {
+    margin-top: 12px;}
+
+    .secu-4 p {
+    font-size: 10px;}
+
+    .secu-111 {
+    margin-left: 3px;}
+
+
+    .infor-1 h1 { margin-top: -17px;
+    font-size: 11px;}
+
+    .infor-1 p {
+    margin-top: 9px;
+    font-size: 8px;}
+
+
+    .infor-img p {
+    margin-top: 4px;
+    font-size: 8px;}
+
+    .infor-2 {
+    margin-top: -38px;
+    margin-left: -5px;}
+
+    .infor-img p {
+    margin-top: 6px;
+    font-size: 8px;}
+
+
+    .infor-img {
+    width: 66%;
+  
+    margin-left: 8px;}
+
+    .infor-3 {
+    width: 33%;
+    margin-top: -25px;}
+
+
+    .infor-3img img {
+    width: 37px;
+    height: 95px;}
+
+
+    .infor-4 {
+    margin-left: 6px;
+    margin-top: 20px;}
+
+
+    .infor-4text h1 {
+    font-size: 13px;}
+
+    .infor-4img {
+    margin-top: 13px;}
+
+
+    .infor-4img img {
+    width: 60px;
+    height: 18px;}
+
+
+    .fmenu nav ul li {
+    font-size: 6px;}
+
+    .fmenu nav ul li a {
+    margin: 0 2px;}
+
+    .fmenu h1 {
+    font-size: 5px;
+    margin-left: 5px;}
+
+    .ficon {margin-top: 22px;
+    margin-left:5px;}
+
+
+    .jjj {margin-left: 2px;
+    margin-top: -2px;}
+
+    .ficon img {
+    width: 49px;
+    height: 32px;}
+
+}
+
